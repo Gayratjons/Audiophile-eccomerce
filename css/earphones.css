@@ -235,7 +235,6 @@ a {
         align-items: center;
         justify-content: space-between;
         margin: 0 auto;
-
     }
 
     .reverse {
@@ -1403,13 +1402,10 @@ a {
         margin: 0 auto;
     }
 
-    .sectiob-card {
+    .section-card {
         width: 100%;
         max-width: 100%;
         margin: 0 auto;
-    }
-
-    .section-card {
         margin-top: 64px;
     }
 
@@ -1439,7 +1435,7 @@ a {
         height: 225px;
     }
 
-    .sectiob-card__part2 {
+    .section-card__part2 {
         width: 100%;
         height: auto;
     }
