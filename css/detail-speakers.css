@@ -74,7 +74,6 @@ span {
     .logo {
         width: 143px;
         height: 25px;
-        /* margin-left: 0; */
     }
 
     .site-bar {
@@ -227,8 +226,8 @@ span {
     }
 
     .section-card1__image {
-        width: 373px;
-        height: 389px;
+        width: 292px;
+        height: 395px;
     }
 
     .section-card__part2 {
@@ -352,20 +351,20 @@ span {
     .section-part3__img1 {
         width: 445px;
         height: 280px;
-        background-image: url(/images/Bitmap\ \(40\).png);
+        background-image: url(/images/Bitmap\ \(48\).png);
     }
 
     .section-part3__img2 {
         margin-top: 24px;
         width: 445px;
         height: 280px;
-        background-image: url(/images/Bitmap\ \(41\).png);
+        background-image: url(/images/Bitmap\ \(49\).png);
     }
 
     .section-part3__card {
         width: 695px;
         height: 592px;
-        background-image: url(/images/Bitmap\ \(39\).png);
+        background-image: url(/images/Bitmap\ \(50\).png);
     }
 
     .section5-text {
@@ -402,8 +401,8 @@ span {
     }
 
     .section-part5__img {
-        width: 176px;
-        height: 194px;
+        width: 133px;
+        height: 191px;
     }
 
     .section-part5__img2 {
@@ -412,8 +411,8 @@ span {
     }
 
     .section-part5__img3 {
-        width: 144px;
-        height: 172px;
+        width: 191px;
+        height: 199px;
     }
 
     .card-bottom {
@@ -749,8 +748,8 @@ span {
     }
 
     .section-card1__image {
-        width: 186px;
-        height: 196px;
+        width: 241px;
+        height: 300px;
     }
 
     .section-card__part2 {
@@ -871,20 +870,20 @@ span {
     .section-part3__img1 {
         width: 277px;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(36\).png);
+        background-image: url(/images/Bitmap\ \(45\).png);
     }
 
     .section-part3__img2 {
         margin-top: 24px;
         width: 277;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(37\).png);
+        background-image: url(/images/Bitmap\ \(46\).png);
     }
 
     .section-part3__card {
         width: 395px;
         height: 368px;
-        background-image: url(/images/Bitmap\ \(38\).png);
+        background-image: url(/images/Bitmap\ \(47\).png);
     }
 
     .section5-text {
@@ -921,18 +920,18 @@ span {
     }
 
     .section-part5__img {
-        width: 73px;
-        height: 95px;
+        width: 132px;
+        height: 191px;
     }
 
     .section-part5__img2 {
-        width: 80px;
-        height: 83px;
+        width: 149px;
+        height: 193px;
     }
 
     .section-part5__img3 {
-        width: 73px;
-        height: 95px;
+        width: 191px;
+        height: 199px;
     }
 
     .card-bottom {
@@ -1269,8 +1268,8 @@ span {
     }
 
     .section-card1__image {
-        width: 186px;
-        height: 193px;
+        width: 168px;
+        height: 201px;
     }
 
     .section-card__part2 {
@@ -1390,20 +1389,20 @@ span {
     .section-part3__img1 {
         width: 277px;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(36\).png);
+        background-image: url(/images/Bitmap\ \(45\).png);
     }
 
     .section-part3__img2 {
         margin-top: 24px;
         width: 277;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(37\).png);
+        background-image: url(/images/Bitmap\ \(46\).png);
     }
 
     .section-part3__card {
         width: 395px;
         height: 368px;
-        background-image: url(/images/Bitmap\ \(38\).png);
+        background-image: url(/images/Bitmap\ \(47\).png);
     }
 
     .section5-text {
@@ -1440,8 +1439,8 @@ span {
     }
 
     .section-part5__img {
-        width: 176px;
-        height: 194px;
+        width: 133px;
+        height: 191px;
     }
 
     .section-part5__img2 {
@@ -1450,8 +1449,8 @@ span {
     }
 
     .section-part5__img3 {
-        width: 144px;
-        height: 172px;
+        width: 191px;
+        height: 199px;
     }
 
     .card-bottom {
@@ -1872,8 +1871,8 @@ span {
     }
 
     .section-card1__image {
-        width: 185px;
-        height: 193px;
+        width: 168px;
+        height: 201px;
     }
 
     .section-card__part2 {
@@ -2075,7 +2074,7 @@ span {
         border-radius: 8px;
         width: 100%;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(33\).png);
+        background-image: url(/images/Bitmap\ \(42\).png);
     }
 
     .section-part3__img2 {
@@ -2083,7 +2082,7 @@ span {
         margin-top: 24px;
         width: 100%;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(34\).png);
+        background-image: url(/images/Bitmap\ \(43\).png);
     }
 
     .section-part3__card {
@@ -2091,7 +2090,7 @@ span {
         margin-top: 24px;
         width: 100%;
         height: 368px;
-        background-image: url(/images/Bitmap\ \(35\).png);
+        background-image: url(/images/Bitmap\ \(44\).png);
     }
 
     .section5-text {
@@ -2129,8 +2128,8 @@ span {
     }
 
     .section-part5__img {
-        width: 87px;
-        height: 96px;
+        width: 61px;
+        height: 87px;
     }
 
     .section-part5__img2 {
@@ -2139,8 +2138,8 @@ span {
     }
 
     .section-part5__img3 {
-        width: 73px;
-        height: 95px;
+        width: 80px;
+        height: 83px;
     }
 
     .card-bottom {

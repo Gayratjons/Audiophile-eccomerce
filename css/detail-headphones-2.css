@@ -749,8 +749,8 @@ span {
     }
 
     .section-card1__image {
-        width: 181px;
-        height: 201px;
+        width: 295px;
+        height: 385px;
     }
 
     .section-card__part2 {
@@ -871,20 +871,20 @@ span {
     .section-part3__img1 {
         width: 277px;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(18\).png);
+        background-image: url(/images/Bitmap\ \(30\).png);
     }
 
     .section-part3__img2 {
         margin-top: 24px;
         width: 277;
         height: 174px;
-        background-image: url(/images/Bitmap\ \(19\).png);
+        background-image: url(/images/Bitmap\ \(32\).png);
     }
 
     .section-part3__card {
         width: 395px;
         height: 368px;
-        background-image: url(/images/Bitmap\ \(20\).png);
+        background-image: url(/images/Bitmap\ \(31\).png);
     }
 
     .section5-text {
