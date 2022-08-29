@@ -625,7 +625,7 @@ hr {
     }
 
     .bar-section__cards {
-        width: 90%;
+        width: 100%;
         padding-top: 80px;
         height: 340px;
         margin: 0 auto;
@@ -641,7 +641,7 @@ hr {
     }
 
     .bar-section__card {
-        width: 33%;
+        width: 32%;
         height: 165px;
         background-color: #f1f1f1;
         border-radius: 10px;
@@ -660,7 +660,7 @@ hr {
     }
 
     .bar-section__card2 {
-        width: 33%;
+        width: 32%;
         height: 165px;
         background-color: #f1f1f1;
         border-radius: 10px;
@@ -679,7 +679,7 @@ hr {
     }
 
     .bar-section__card3 {
-        width: 33%;
+        width: 32%;
         height: 165px;
         background-color: #f1f1f1;
         border-radius: 10px;
